@@ -125,6 +125,10 @@ text-decoration: line-through solid #86e6f3 2px;
 
 ![css](img/09_img13.png)
 
+<br>
+
+**`<span>`などで囲んだテキストの装飾にも使えます**
+
 <br><br>
 
 ### **【演習①（style.css）】**
@@ -348,7 +352,7 @@ nav ul li a {
 
 **余白のイメージ**  
 水色の部分がリンクになっている  
-文字の上だけでなくpaddingを指定することでリンクを範囲を広げることができます  
+文字の上だけでなくpaddingを指定することでリンクの範囲を広げることができます  
 
 ![html](img/09_img12.png)
 <br><br>

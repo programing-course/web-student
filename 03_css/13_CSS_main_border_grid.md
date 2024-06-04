@@ -45,9 +45,9 @@ border:solid 2px #000;
 
 ```css
 
-border-radius: 10%;
+border-radius: 20%;
 border-radius: 50%;
-border-radius: 20px;
+border-radius: 50px;
 
 ```
 

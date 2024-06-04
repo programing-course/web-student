@@ -3,6 +3,7 @@
 ## **この単元でやること**
 
 1. マウスポインタが重なったら変化する
+2. transitionアニメーション
 
 【演習】hoverを追加
 
@@ -29,6 +30,7 @@ nav ul li a {
 /* 追加　ここから */
 nav a:hover {
     color: black;
+    transition: all 0.5s ease-in 100ms;
 }
 /* 追加　ここまで */
 
@@ -58,6 +60,7 @@ section li {
 /* 追加　ここから */
 section a:hover {
     color: #0bd;
+    transition: all 0.5s ease-in 100ms;
 }
 /* 追加　ここまで */
 
@@ -68,9 +71,12 @@ section a:hover {
 /*省略*/
 
 ```
+
 <br>
 
 ![html](img/16_img02.png)
 
 <br>
+
+### **transitionアニメーション**  
 
