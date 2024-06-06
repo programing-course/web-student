@@ -316,6 +316,12 @@ nav ul li a {
 
 <br>
 
+### **コンテンツの全体幅のイメージ**
+
+![html](img/09_img15.png)
+
+<br>
+
 ### **【演習③（style.css）】**
 
 <br>

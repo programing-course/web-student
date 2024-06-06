@@ -3,6 +3,7 @@
 ## **この単元でやること**
 
 1. フレックスボックス
+2. リストの装飾
   
 【演習】メインコンテンツのレイアウトを調整しよう
 
@@ -22,6 +23,7 @@
 |  `flex-wrap`  |  アイテムの折り返しの指定  |  nowrap（初期値）<br>wrap（折り返す）<br>wrap-reverse（逆向きに折り返す）  |  |
 |  `flex-direction`  |  子要素の並ぶ向き  |  row（初期値）<br>row-reverse（右から左）<br>column（上から下）<br>column-reverse（下から上）  |  |
 |  `align-items`  |  垂直方向の揃え<br>flex-directionの向きに対して垂直  |  stretch（初期値）<br>flex-start（上寄せ/左寄せ）<br>flex-end（下寄せ/右寄せ）<br>center（中央配置）<br>baseline（コンテンツの下に合わせる）  |  |
+|  `list-style`  | リストマーカーの種類と位置  | none（消す）<br> decimal（数字：`<ol>`のデフォルト）<br>desc（黒丸：`<ul>のデフォルト`）<br>-------<br>inside（ボックスの内側）<br>outside（ボックスの外側）  |  |
 
 
 
@@ -111,12 +113,24 @@ align-items: center;
 ![html](img/11_img09.png)
 
 そのほかにもいろいろなプロパティがあります  
-https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet#flexbox14
+https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet
+
+<br>
+
+### **2. リストの装飾**
+
+![html](img/11_img14.png)
+
+![html](img/11_img15.png)
+
+リストマーカーの種類は他にもあります  
+https://developer.mozilla.org/ja/docs/Web/CSS/list-style
+
+![html](img/11_img16.png)
 
 
 ### **【演習①（style.css）】**
 
-<br>
 
 ### **横並びにしよう**
 

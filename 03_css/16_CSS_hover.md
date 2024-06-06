@@ -3,7 +3,7 @@
 ## **この単元でやること**
 
 1. マウスポインタが重なったら変化する
-2. transitionアニメーション
+2. アニメーション（transition,animation）
 
 【演習】hoverを追加
 
@@ -30,7 +30,7 @@ nav ul li a {
 /* 追加　ここから */
 nav a:hover {
     color: black;
-    transition: all 0.5s ease-in 100ms;
+    transition: all 1s 500ms ease-in;
 }
 /* 追加　ここまで */
 
@@ -60,7 +60,7 @@ section li {
 /* 追加　ここから */
 section a:hover {
     color: #0bd;
-    transition: all 0.5s ease-in 100ms;
+    transition: all 1s 500ms ease-in;
 }
 /* 追加　ここまで */
 
@@ -78,5 +78,73 @@ section a:hover {
 
 <br>
 
-### **transitionアニメーション**  
+### **CSSアニメーション**  
 
+CSSで表現できるアニメーションは２つ、動きに合わせて使い分けよう  
+
+<br>
+
+**transitonアニメーション**
+
+![html](img/16_img03.png)
+
+**animetion @keyframeアニメーション**
+
+![html](img/16_img04.png)
+
+<br>
+
+### **①transitonアニメーション**  
+
+![html](img/16_img05.png)
+
+「対象」は全てのプロパティ  
+「開始から終了までの時間」が１秒間  
+「開始まで待つ時間」が0.5秒  
+「変化」はゆっくり始まり速く終わる
+
+<br>
+
+![html](img/16_img06.png)
+
+`all` 全てのプロパティに適用  
+
+```css
+
+a:hover {
+    background-color: rgb(82, 148, 145);
+    color: #fff;
+    transition: all 0.5s 100ms ease-in;
+}
+
+```
+
+<br>
+
+`プロパティ指定` 一部に適用  
+例：`color`だけアニメーションしたい場合 
+
+```css
+
+a:hover {
+    background-color: rgb(82, 148, 145);
+    color: #fff;
+    transition: color 0.5s 100ms ease-in;
+}
+
+```
+<br>
+
+![html](img/16_img07.png)
+
+<br>
+
+![html](img/16_img08.png)
+
+<br>
+
+
+![html](img/16_img09.png)
+
+
+### **②animetion @keyframeアニメーション** 
