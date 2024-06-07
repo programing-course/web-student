@@ -36,7 +36,7 @@
 | 13 | サイズの変更 | 10 |
 | 14 | 余白の追加<br>※コンテンツとコンテンツの間に余白を入れて見やすくしよう | 09,12 |
 | 15 | 配置の変更<br>※横並びの配置にしてみよう | 11 |
-| 16 | ２ページ目を作る<br>自由につくろう | 04 |
+| 16 | ２ページ目を作る<br>自由につくろう<br>`figmaを使ってワイヤーフレームを作ろう` | 04 |
 
 <br><br><br>
 
@@ -61,8 +61,8 @@
 <body>
     <header>
         <ul>
-            <li><a href="index.html"></a>top</li>
-            <li><a href="favorite.html"></a>favorite</li>
+            <li><a href="index.html">top</a></li>
+            <li><a href="favorite.html">favorite</a></li>
         </ul>
     </header>
 
