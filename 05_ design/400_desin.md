@@ -7,15 +7,9 @@
 3. パターンを繰り返す
 4. 配色
 
-### **1. 余白をつける**
+https://tsutawarudesign.com/yomiyasuku4.html
 
+https://tsutawarudesign.com/miyasuku4.html
 
+https://tsutawarudesign.com/miyasuku5.html
 
-### **2. 揃える**
-
-
-
-### **3. パターンを繰り返す**
-
-
-### **4. 配色**
