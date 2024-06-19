@@ -175,8 +175,6 @@ HTMLの要素は主に`ブロックボックス`と`インラインボックス`
                     <div class="container">
                         <h3>サイトマップとは？</h3>
                         <p>webサイト上の地図のこと!<br>このサイトだと<strong>nav</strong>の部分だよ</p>
-                        <p>webサイト上の地図のこと!</p>
-                        <p>このサイトだと<strong>nav</strong>の部分だよ</p>
                         <img src="images/map.png" alt="地図画像">
                     </div>
 
