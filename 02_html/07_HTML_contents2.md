@@ -139,7 +139,7 @@
                     <li><a href="https://www.figma.com/ja/" target="_blank">figma</a></li>
                     <li><a href="https://sankoudesign.com/" target="_blank">SANKOUサイト</a></li>
                     <li><a href="https://www.irasutoya.com/" target="_blank">イラスト屋</a></li>
-                    <li><a href="https://coco-factory.jp/ugokuweb/" target="_blank">動くwebデザイン帳帳</a></li>
+                    <li><a href="https://coco-factory.jp/ugokuweb/" target="_blank">動くwebデザイン帳</a></li>
                 </ul>
 
                 <h3 class="info">リンク先のサイトについて</h3>
