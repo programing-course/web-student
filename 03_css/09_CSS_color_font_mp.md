@@ -322,7 +322,7 @@ nav ul li a {
 
 <br>
 
-### **【演習③（style.css）】**
+### **【演習④（style.css）】**
 
 <br>
 
