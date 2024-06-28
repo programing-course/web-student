@@ -69,7 +69,7 @@ header img {
 .container {
     padding-right: 1vw;     /*追加*/
     padding-left: 1vw;     /*追加*/
-    border: solid 2px #969696;
+    border: solid 1px black;
     border-radius: 20px;
 }
 
