@@ -89,7 +89,7 @@ CSSで表現できるアニメーションは２つ、動きに合わせて使�
 
 ![html](img/16_img03.png)
 
-**animetion @keyframeアニメーション**
+**animetion @keyframeアニメーション（細かい説明は後ほど、気になる人は先生に聞いてみよう）**
 
 ![html](img/16_img04.png)
 
@@ -156,17 +156,29 @@ a:hover {
 
 /*省略*/
 
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 1rem 4rem;
+    transition: all 0.5s 100ms ease-in;/*追加*/
+}
+
 nav a:hover {
     color: black;
-    transition: all 1s 500ms ease-in;/*追加*/
 }
 
 /*省略*/
 
+section ul li a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 10px;
+    transition: all 1s 500ms ease-in;/*追加*/
+}
 
 section a:hover {
     color: #0bd;
-    transition: all 1s 500ms ease-in;/*追加*/
 }
 
 ```
