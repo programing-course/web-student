@@ -163,6 +163,7 @@ nav ul li a {
     transition: all 0.5s 100ms ease-in;/*追加*/
 }
 
+/*追加*/
 nav a:hover {
     color: black;
 }
@@ -177,6 +178,7 @@ section ul li a {
     transition: all 1s 500ms ease-in;/*追加*/
 }
 
+/*追加*/
 section a:hover {
     color: #0bd;
 }
