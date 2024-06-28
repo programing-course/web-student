@@ -170,5 +170,3 @@ section a:hover {
 }
 
 ```
-
-### **②animetion @keyframeアニメーション** 
