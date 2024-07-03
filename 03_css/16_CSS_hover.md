@@ -113,11 +113,18 @@ CSSで表現できるアニメーションは２つ、動きに合わせて使�
 例
 ```css
 
-a:hover {
+a {
     background-color: rgb(82, 148, 145);
     color: #fff;
     transition: all 0.5s 100ms ease-in;
 }
+
+a:hover {
+    background-color: rgb(236, 253, 227);
+    color: black;
+}
+
+
 
 ```
 
@@ -128,10 +135,15 @@ a:hover {
 
 ```css
 
-a:hover {
+a {
     background-color: rgb(82, 148, 145);
     color: #fff;
     transition: color 0.5s 100ms ease-in;
+}
+
+a:hover {
+    background-color: rgb(236, 253, 227);
+    color: black;
 }
 
 ```
