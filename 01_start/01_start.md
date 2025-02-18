@@ -23,7 +23,7 @@
 
 ### **2. コース説明**
 
-- [動画視聴（5~10分）](https://programing-course.github.io/website/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%BC%E3%82%B9.pdf)
+- [コースの説明スライド](https://programing-course.github.io/website/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%BC%E3%82%B9.pdf)
 
 <br><br>
 
