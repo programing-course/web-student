@@ -168,37 +168,57 @@ HTMLの要素は主に`ブロックボックス`と`インラインボックス`
 
                     <div class="container">
                         <h3>webサイトの企画とは？</h3>
-                        <p>誰に向けたどんなサイトにするのかを考えること!<br>webサイトは何かを誰かに伝えるための<strong>ツール</strong>だよ</p>
+                        <p>
+                        誰に向けたどんなサイトにするのかを考えること!<br>
+                        webサイトは何かを誰かに伝えるための
+                        <strong>ツール</strong>だよ
+                        </p>
                         <img src="images/plan.jpg" alt="企画書画像">
                     </div>
 
                     <div class="container">
                         <h3>サイトマップとは？</h3>
-                        <p>webサイト上の地図のこと!<br>このサイトだと<strong>nav</strong>の部分だよ</p>
+                        <p>
+                        webサイト上の地図のこと!<br>
+                        このサイトだと<strong>nav</strong>の部分だよ
+                        </p>
                         <img src="images/map.png" alt="地図画像">
                     </div>
 
                     <div class="container">
                         <h3>ワイヤーフレームとは？</h3>
-                        <p>なにをどこに書くか等ざっくりしたことを考えること!<br>webサイトの<strong>下書き</strong>のことだよ</p>
+                        <p>
+                        なにをどこに書くか等ざっくりしたことを考えること!<br>
+                        webサイトの<strong>下書き</strong>のことだよ
+                        </p>
                         <img src="images/draft.png" alt="下書き画像">
                     </div>
 
                     <div class="container">
                         <h3>デザインとは？</h3>
-                        <p>ワイヤーフレームを元に具体的にどんなデザインにするかを考えること!<br>下書きに色等を付けて<strong>見た目を作る</strong>ことだよ</p>
+                        <p>
+                        ワイヤーフレームを元に具体的にどんなデザインにするかを考えること!<br>
+                        下書きに色等を付けて<strong>見た目を作る</strong>ことだよ
+                        </p>
                         <img src="images/design.png" alt="デザイン画像">
                     </div>
 
                     <div class="container">
                         <h3>コーディングとは？</h3>
-                        <p>デザインしたものをwebサイトにするためにプログラミングをすること!<br>みんながイメージする<strong>プログラミング</strong>のことだよ</p>
+                        <p>
+                        デザインしたものをwebサイトにするためにプログラミングをすること!<br>
+                        みんながイメージする<strong>プログラミング</strong>のことだよ
+                        </p>
                         <img src="images/programming.png" alt="プログラミング画像">
                     </div>
 
                     <div class="container">
                         <h3>web上に公開とは？</h3>
-                        <p>みんなが作ったwebサイトを誰でも見れるようにすること!<br>ただ作るだけだと自分でしか見れないから<strong>誰でも見れる</strong>ように公開することだよ</p>
+                        <p>
+                        みんなが作ったwebサイトを誰でも見れるようにすること!<br>
+                        ただ作るだけだと自分でしか見れないから
+                        <strong>誰でも見れる</strong>ように公開することだよ
+                        </p>
                         <img src="images/pop_koukai.png" alt="公開画像">
                     </div>
                 </div>
