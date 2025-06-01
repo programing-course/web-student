@@ -119,7 +119,7 @@ https://webgakushu.com/TRY/trial1/trial1/trial1.html
 
 <br><br>
 
-**⚠️hromebookの設定方法はNo9まで飛んでください⚠️**
+**⚠️Chromebookの設定方法はNo9まで飛んでください⚠️**
 
 <br><br>
 
