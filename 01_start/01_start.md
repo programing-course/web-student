@@ -90,7 +90,20 @@ https://www.figma.com/
 
 <br><br>
 
+
 ## **演習**
+
+### **HTMLとCSSを体験してみよう**
+
+- パソコンの操作、ZOOMの使い方の練習
+- HTML,CSSを体験してみよう！  
+
+
+https://webgakushu.com/TRY/trial1/trial1/trial1.html
+
+※体験会に参加済み、パソコン操作も慣れている方も復習でやってみよう！！
+
+<br><br>
 
 ### **Webサイトを作る準備をしよう！（環境構築）**
 
@@ -102,6 +115,11 @@ https://www.figma.com/
 6. Canvaを使ってみよう
 7. figmaを使ってみよう
 8. いろいろなサイトを見てみよう
+9. Chromebookの設定（windows,Macは実施しない）
+
+<br><br>
+
+**⚠️hromebookの設定方法はNo9まで飛んでください⚠️**
 
 <br><br>
 
@@ -264,3 +282,31 @@ gooleアカウントでログインして無料で使用できます。
   https://sankoudesign.com/
   
 <br><br>
+
+### **9. ChromeBookの設定**
+
+**⚠️windows,Macの方は不要です⚠️**  
+**⚠️設定が終わったら、No5に戻りましょう⚠️**
+
+講座途中でWindowsやMacに切り替え予定であれば  
+**Web版VSCodeを使用してください**
+
+**①Web版VSCodeにアクセス**
+
+https://vscode.dev/?vscode-lang=ja
+
+**②フォルダ、ファイルの作成等**  
+https://gotoblog.org/chromebook-create-web/
+
+<br><br>
+
+**インストールして使用**  
+chromebookの設定によってはうまくいかない可能性があります  
+Linax版をインストールしてください
+
+**①VSCodeのインストール**
+
+https://gotoblog.org/chromebook-vscode/
+
+**②フォルダ、ファイルの作成等**  
+https://gotoblog.org/chromebook-create-web/
